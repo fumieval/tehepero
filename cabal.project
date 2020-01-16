@@ -1,0 +1,5 @@
+packages: .
+source-repository-package
+  type: git
+  location: https://github.com/matsubara0507/fallible
+  tag: dfbdce1a0b0c71bcfcea844c94f9cb815f071235
